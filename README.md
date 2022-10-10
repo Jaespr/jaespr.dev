@@ -1,2 +1,2 @@
 # jaespr.dev
-a website for self
+a website for self (still in-development)
